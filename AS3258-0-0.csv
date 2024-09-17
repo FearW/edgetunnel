@@ -1,0 +1,13 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+149.62.44.224,25930,443,true,NRT,Asia Pacific,Tokyo,174,3.18
+45.142.166.55,22387,80,false,NRT,Asia Pacific,Tokyo,168,1.96
+149.62.44.233,41166,443,true,NRT,Asia Pacific,Tokyo,176,1.94
+149.62.44.224,27053,443,true,NRT,Asia Pacific,Tokyo,175,1.56
+149.62.44.224,25950,443,true,NRT,Asia Pacific,Tokyo,176,1.14
+149.62.44.224,40722,443,true,NRT,Asia Pacific,Tokyo,180,1.08
+149.62.44.224,31005,443,true,NRT,Asia Pacific,Tokyo,174,1.03
+149.62.44.224,27014,443,true,NRT,Asia Pacific,Tokyo,185,0.65
+195.245.242.190,5207,443,true,NRT,Asia Pacific,Tokyo,176,0.53
+149.62.44.224,25956,443,true,NRT,Asia Pacific,Tokyo,181,0.52
+45.159.48.42,34237,2096,true,NRT,Asia Pacific,Tokyo,178,0.19
+103.150.8.172,4433,443,true,NRT,Asia Pacific,Tokyo,183,0.08

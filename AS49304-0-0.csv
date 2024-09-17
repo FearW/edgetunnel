@@ -1,0 +1,6 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+46.3.107.199,2004,443,true,ICN,Asia Pacific,Seoul,31,11.12
+46.3.104.73,17899,443,true,LAX,North America,Los Angeles,28,1.96
+46.3.104.73,46023,443,true,LHR,Europe,London,23,1.64
+178.173.237.178,40810,80,false,NRT,Asia Pacific,Tokyo,15,0.94
+178.173.237.166,40810,80,false,NRT,Asia Pacific,Tokyo,27,0.40
